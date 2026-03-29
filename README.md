@@ -11,4 +11,4 @@ Navigate to Content/Gameplay/ActorAttachments. Make an Advaced copy of BP_Exampl
 <img width="198" height="108" alt="image" src="https://github.com/user-attachments/assets/ba51ec7e-f6e9-4e5a-87cd-d8fa42126622" />
 
 
-Modify BP_<modname>Settings to what you'd like. There are some examples in that file.
+Modify BP_< modname >Settings to what you'd like. There are some examples in that file.
